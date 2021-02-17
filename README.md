@@ -1,8 +1,3 @@
-function greeting() {
- alert("Welcome my repo!");
-}
-greeting()
-
 ### Hi there 👋 Donald here :bowtie:, <code>Hello World!</code> 
 I am a junior __*full-stack developer*__ starting out my developer career. I have knowledge working with **HTML, CSS, Javascript, NodeJS, ExpressJS, jQuery, Git, Github, Gitlab, Slack, Trello, Bootstrap**. I am looking to develop more in back-end programming. 
 
