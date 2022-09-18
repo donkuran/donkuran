@@ -1,7 +1,7 @@
 ### Hi there 👋 Donald here :bowtie:, <code>Hello World!</code> 
 I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out my developer career. I have knowledge working with **HTML, CSS, Javascript, NodeJS, ExpressJS, jQuery, Git, Github, Gitlab, Slack, Trello, Bootstrap**. I am looking to develop more in back-end programming. 
 
-[My LinkedIn](https://www.linkedin.com/in/donaldkurangwa/)
+[[My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donaldkurangwa/)
 
 * 📫 How to reach me: donald.kurangwa@asu.edu
 * 🌱 I’m currently studying for a Certificate in Full-Stack Web Development.
