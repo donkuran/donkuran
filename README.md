@@ -1,7 +1,7 @@
-### Hi there 👋 Donald here :bowtie:, <code>Hello World!</code> 
+## Hi there 👋 Donald here :bowtie:, <code>Hello World!</code> 
 __*Full-Stack Developer*__ and __*QA Automation Developer*__ . 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <p>
   <a href="" rel="(https://www.linkedin.com/in/donaldkurangwa/)">
