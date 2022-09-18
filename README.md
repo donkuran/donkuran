@@ -32,6 +32,8 @@ __*Full-Stack Developer*__ and __*QA Automation Developer*__ .
 
 </br>
 
+## 📈 GitHub Stats 
+
 [![Donald’s github stats](https://github-readme-stats.vercel.app/api?username=donkuran)](https://github.com/donkuran)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkuran&layout=compact)]((https://github.com/donkuran))
