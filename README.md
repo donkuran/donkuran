@@ -21,6 +21,9 @@ __*Full-Stack Developer*__ and __*QA Automation Developer*__ .
 * 💬 Ask me about: the Pharmaceutical Industry :pill:.
 
 
+</br>
+
+
 ## 💼 Technical Skills
 
 
@@ -30,7 +33,6 @@ __*Full-Stack Developer*__ and __*QA Automation Developer*__ .
   </a>
 </p>
 
-</br>
 
 ## 📈 GitHub Stats 
 
