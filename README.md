@@ -10,7 +10,7 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
 * ⚡ Fun fact: I love running and outdoors :runner:!
 * 💬 Ask me about: the Pharmaceutical Industry :pill:.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,NodeJS,ExpressJS,jQuery,Java,Cucumber,TestNG,Git,MYSQL,Github,Gitlab,Slack,Trello,bootstrap,JMeter,Appium,Postman,Jenkins,Jira,aws,GCP)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node,express,jquery,java,cucumber,testng,git,mysql,github,gitlab,slack,trello,bootstrap,jmeter,appium,postman,jenkins,jira,aws,gcp)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
