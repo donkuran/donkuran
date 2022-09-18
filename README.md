@@ -14,7 +14,6 @@ __*Full-Stack Developer*__ and __*QA Automation Developer*__ .
 
 
 * 📫 How to reach me: donald.kurangwa@asu.edu
-* 🌱 I’m currently studying for a Certificate in Full-Stack Web Development.
 * 😄 Pronouns: he/his.
 * 👯 I’m looking to find a position that will expose me to both front-end and back-end programming.
 * 👯 I’m looking to collaborate on any project that requires some pharmaceutical background.
@@ -25,7 +24,7 @@ __*Full-Stack Developer*__ and __*QA Automation Developer*__ .
 ## 💼 Technical Skills
 
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,jquery,java,gherkin,maven,git,mysql,github,gitlab,slack,bootstrap,regex,stackoverflow,selenium,jenkins,vscode,aws,gcp" />
   </a>
