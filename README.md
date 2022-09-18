@@ -1,5 +1,5 @@
 ### Hi there 👋 Donald here :bowtie:, <code>Hello World!</code> 
-I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out my developer career. I have knowledge working with **HTML, CSS, Javascript, NodeJS, ExpressJS, jQuery, Git, Github, Gitlab, Slack, Trello, Bootstrap**. I am looking to develop more in back-end programming. 
+__*Full-Stack Developer*__ and __*QA Automation Developer*__ . 
 
 <p>
   <a href="" rel="(https://www.linkedin.com/in/donaldkurangwa/)">
@@ -28,3 +28,5 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
 
 
 [![Donald’s github stats](https://github-readme-stats.vercel.app/api?username=donkuran)](https://github.com/donkuran)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkuran&layout=compact)]((https://github.com/donkuran))
