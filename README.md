@@ -3,6 +3,8 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
 
 [[My LinkedIn](https://www.linkedin.com/in/donaldkurangwa/)
 
+![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
+
 
 * 📫 How to reach me: donald.kurangwa@asu.edu
 * 🌱 I’m currently studying for a Certificate in Full-Stack Web Development.
