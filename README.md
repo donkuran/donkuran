@@ -25,3 +25,6 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,jquery,java,gherkin,maven,git,mysql,github,gitlab,slack,bootstrap,regex,stackoverflow,selenium,jenkins,vscode,aws,gcp" />
   </a>
 </p>
+
+
+[![Donald’s github stats](https://github-readme-stats.vercel.app/api?username=donkuran)](https://github.com/donkuran)
