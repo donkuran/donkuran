@@ -3,6 +3,15 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
 
 [My LinkedIn](https://www.linkedin.com/in/donaldkurangwa/)
 
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
+
 
 * 📫 How to reach me: donald.kurangwa@asu.edu
 * 🌱 I’m currently studying for a Certificate in Full-Stack Web Development.
