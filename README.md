@@ -22,12 +22,16 @@ __*Full-Stack Developer*__ and __*QA Automation Developer*__ .
 * 💬 Ask me about: the Pharmaceutical Industry :pill:.
 
 
+## 💼 Technical Skills
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,jquery,java,gherkin,maven,git,mysql,github,gitlab,slack,bootstrap,regex,stackoverflow,selenium,jenkins,vscode,aws,gcp" />
   </a>
 </p>
 
+</br>
 
 [![Donald’s github stats](https://github-readme-stats.vercel.app/api?username=donkuran)](https://github.com/donkuran)
 
