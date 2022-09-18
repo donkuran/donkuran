@@ -7,7 +7,7 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
   <a href="" rel="(https://www.linkedin.com/in/donaldkurangwa/)">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://github.com/donkuran/donkuran" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
 </p>
