@@ -12,8 +12,9 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node,express,jquery,java,cucumber,testng,git,mysql,github,gitlab,slack,trello,bootstrap,jmeter,appium,postman,jenkins,jira,aws,gcp)](https://skillicons.dev)
 
+[![My Skills](
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=HTML,CSS,Javascript,ReactJS,NodeJS,ExpressJS,jQuery,Java,Cucumber,TestNG,Git,MYSQL,Github,Gitlab,Slack,Trello,Bootstrap,JMeter,Appium,Postman,Jenkins,Jira,AWS,GCP" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,jquery,java,cucumber,testng,git,mysql,github,gitlab,slack,trello,bootstrap,jmeter,appium,postman,jenkins,jira,aws,gcp" />
   </a>
 </p>
