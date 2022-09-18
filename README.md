@@ -13,6 +13,6 @@ I am a __*Full-Stack Developer*__ and __*QA Automation Developer*__ starting out
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,jquery,java,gherkin,maven,git,mysql,github,gitlab,slack,bootstrap,regex,stackoverflow,selenium,jenkins,jira,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,jquery,java,gherkin,maven,git,mysql,github,gitlab,slack,bootstrap,regex,stackoverflow,selenium,jenkins,vscode,aws,gcp" />
   </a>
 </p>
